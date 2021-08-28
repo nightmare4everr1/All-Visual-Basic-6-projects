@@ -1,0 +1,12 @@
+name             text2     0
+pin	    text3     1
+roll	    text4     2
+ammount	    text5     3
+interest         text6     4
+package         combo1  5
+packinterest   text12   6
+cashinpack      text13   7
+withdraw        text17   8
+deposit           text18   9
+
+567 lines of code
