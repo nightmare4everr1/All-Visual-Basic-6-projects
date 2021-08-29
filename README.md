@@ -1,6 +1,6 @@
 # All-Visual-Basic-6-projects
 
->a compilation of projects i made with no incentive other then my own self interest in programming when i was a kid
+>a compilation of projects i made with no incentive other then my own self interest in programming when i was a kid in 2010-2012
 
 
 >sadly none of them are in a working state rn due to Visual Basic Basic 6 being obsolete and most of the APIS and libraries i used were not future proof
